@@ -9,9 +9,9 @@
 
 ### Um pouco sobre mim... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 
-Sou professora 🎓, apaixonada por educação e tecnologia, com foco no ensino de Computação e Lógica de Programação.
-Sou uma entusiasta de tecnologia 💻 😃, sempre em busca de aprender, aplicar e ensinar novas ferramentas e conceitos de forma simples e acessível.
-Adoro criar materiais didáticos, projetos práticos e soluções educacionais que tenham propósito e impacto real na aprendizagem dos alunos.
+Sou estudante de tecnologia da informação 🎓, apaixonado por educação e tecnologia, com foco em desenvolvimento de sistemas.
+Sou um entusiasta de tecnologia 💻 😃, sempre em busca de aprender, aplicar e ensinar novas ferramentas e conceitos de forma simples e acessível.
+Adoro criar projetos práticos e soluções educacionais que tenham propósito e impacto real na aprendizagem dos alunos.
 
 ---
 
